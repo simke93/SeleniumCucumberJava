@@ -7,8 +7,7 @@ Project Structure
 Screenshot 2023-03-28 at 2 17 42 PM
 Usage
 
-Clone the repository: git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git
-Navigate to the project directory:
+
 
 cd Cucumber7.xTestNGLatestPOC
 Run the tests with Maven:
